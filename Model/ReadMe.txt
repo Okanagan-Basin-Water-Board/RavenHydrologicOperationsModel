@@ -31,6 +31,8 @@ The model can run on historical climate data from 1945-2012 (see climate data) a
 #CLIMATE DATA:
 Netcdf files for precipitation, minimum and maximum temperature can be found here:
 
+These files cover the historic period (1945-2012) and must be placed in the observation folder for the model to run. 
+
 #RESOURCES:
 NHC (2020). Okanagan Mainstem Floodplain Mapping. Prepared for Okanagan Basin Water Board. 
-Final Report Downloadable at: https://www.obwb.ca/flood/
+Final Report Downloadable at: https://www.obwb.ca/docs/2020-okanagan-floodplain-mapping-nhc-finalreport-lowres.pdf
