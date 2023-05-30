@@ -7,10 +7,10 @@ The model covers the mainstem of the Okanagan River and it's tributaries includi
 The model structure is a modified HBV-EC model. The model was calibrated for peak flows. Additional detail on calibration can be found in the Chapter 3 of the supporting report (NHC, 2020). 
 The model can be run in two different modes: 
 1. Standard regulation scenario - the regular mode considers current regulation on the mainstem 
-2. Open gate scenario - simulates the gates of Okanagan and Skaha Lake dam as fully open with resservoir outflow dictated by rating curves. The rvt file for the open gates scenario is named Okanagan_opengates.rvt
+2. Open gate scenario - simulates the gates of Okanagan and Skaha Lake dam as fully open with reservoir outflow dictated by rating curves. The rvt file for the open gates scenario is named Okanagan_opengates.rvt
 
 #ORGANIZATION:
-The model was developed by Northwest Hydraulic Consultants Ltd.
+Northwest Hydraulic Consultants Ltd.
 
 #POINT OF CONTACT:
 Genevieve Brown - gbrown@nhcweb.com
@@ -30,8 +30,12 @@ The model can run on historical climate data from 1945-2012 (see climate data) a
 
 #CLIMATE DATA:
 Netcdf files for precipitation, minimum and maximum temperature can be found here:
+https://storage.googleapis.com/obwb_climate_data/RavenHydrologicOperationsModel/ClimateData%20-%20v2.9.2/nhc_agg_OkanaganSimilkameen_pr.nc
+https://storage.googleapis.com/obwb_climate_data/RavenHydrologicOperationsModel/ClimateData%20-%20v2.9.2/nhc_agg_OkanaganSimilkameen_tasmax.nc
+https://storage.googleapis.com/obwb_climate_data/RavenHydrologicOperationsModel/ClimateData%20-%20v2.9.2/nhc_agg_OkanaganSimilkameen_tasmin.nc
 
-These files cover the historic period (1945-2012) and must be placed in the observation folder for the model to run. 
+#WATER DEMAND:
+This model does not contain any water demand. 
 
 #RESOURCES:
 NHC (2020). Okanagan Mainstem Floodplain Mapping. Prepared for Okanagan Basin Water Board. 
