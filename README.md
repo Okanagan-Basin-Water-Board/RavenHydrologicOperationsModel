@@ -4,7 +4,7 @@ This repository contains the Raven model for the Okanagan System as it moves fro
 
 https://www.obwb.ca/docs/2020-okanagan-floodplain-mapping-nhc-finalreport-lowres.pdf
 
-Model forcing data (daily maximum and minimum temperature and total precipitation) to be available in NetCDF format from the OBWB. Potential users should contact [Nelson Jatel](mailto:nelson.jatel@obwb.ca).
+Model forcing data (daily maximum and minimum temperature and total precipitation) to be available in NetCDF format from the Google Cloud Platform (see model meta data). Potential users should contact [Nelson Jatel](mailto:nelson.jatel@obwb.ca).
 
 ## License
 
